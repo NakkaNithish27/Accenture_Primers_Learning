@@ -642,9 +642,8 @@
 - InstallAndConfigureDNS- Activity - figuredout
 	- use ifconfig command in VM and note the ip address of the VM
 	- use that noted ip address in step 5,6,7,9
-	- In step 8, in given copiable text the ptr record for the ipadress(10.0.1.120,  10.0.1.122) is incorrect, instead use the PTR values 
-	  in the image 
-	- Don't forget to reverse the vm ipadress in step 6 ignoring last last octet 
+	- In step 8, in given copiable text the ptr record for the vm ip address is incorrect, instead use the last octet of vm ip address as PTR values  
+	- Don't forget to reverse the vm ipadress in step 6 ignoring the last octet 
 
 ### AWS Practitioner
 
