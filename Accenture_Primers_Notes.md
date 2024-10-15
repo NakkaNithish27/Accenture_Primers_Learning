@@ -1,4 +1,4 @@
-# Accenture Primers Learning Notes
+# Learning Notes
 
 ## Infrastructure Overview
 
